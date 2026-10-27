@@ -28,3 +28,8 @@ Run all tests available before merging the branches
 ## Peer review: 
 
 checked README clarity. 
+
+## How we verify releases
+
+the test command the will be ran is how we verify releases
+
